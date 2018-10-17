@@ -1,0 +1,7 @@
+{
+  "name": "Recipe-Book",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
